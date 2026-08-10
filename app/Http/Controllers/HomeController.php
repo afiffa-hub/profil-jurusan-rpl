@@ -146,8 +146,8 @@ class HomeController extends Controller
             'alamat' => 'Jl. Arief Rahman Hakim No.35, Cigadung, Kec. Subang, Kabupaten Subang, Jawa Barat 41213',
             'telepon' => '(0260) 7775-775',
             'whatsapp' => '0812-7775-775',
-            'email' => 'rpl@smk-contoh.sch.id',
-            'instagram' => '@rpl.smkcontoh',
+            'email' => 'rpl@smkn1subang.sch.id',
+            'instagram' => '@smkn1subang',
         ];
 
         return view('home', compact(

@@ -296,6 +296,25 @@ code { font-family: var(--font-mono); }
 .keunggulan__card p { font-size: 0.9rem; color: var(--muted); }
 
 /* ==========================================================================
+   Fasilitas (placeholder)
+   ========================================================================== */
+
+.fasilitas__placeholder {
+    text-align: center;
+    padding: 70px 20px;
+    background: var(--white);
+    border: 1.5px dashed var(--border);
+    border-radius: var(--radius);
+    color: var(--muted);
+}
+.fasilitas__placeholder i {
+    font-size: 2rem;
+    color: var(--sky);
+    margin-bottom: 14px;
+    display: block;
+}
+
+/* ==========================================================================
    Mata Pelajaran
    ========================================================================== */
 
