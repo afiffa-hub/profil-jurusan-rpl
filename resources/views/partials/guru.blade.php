@@ -28,8 +28,6 @@
 
         <p class="guru__note">
             <i class="fa-solid fa-circle-info"></i>
-            Ganti foto asli guru di folder <code>public/images/guru/</code> — jika foto belum ada,
-            sistem otomatis menampilkan avatar inisial nama.
         </p>
     </div>
 </section>

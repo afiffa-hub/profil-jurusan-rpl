@@ -5,8 +5,8 @@
             <h2 class="section__title">Profil Jurusan Rekayasa Perangkat Lunak</h2>
             <p class="section__desc">
                 RPL adalah kompetensi keahlian yang mempelajari proses perancangan, pengembangan,
-                dan pemeliharaan perangkat lunak — dari aplikasi web, mobile, hingga sistem
-                enterprise — dengan pendekatan belajar sambil membangun proyek nyata.
+                dan pemeliharaan perangkat lunak dari aplikasi web, mobile, hingga sistem
+                enterprise dengan pendekatan belajar sambil membangun proyek nyata.
             </p>
         </div>
 
