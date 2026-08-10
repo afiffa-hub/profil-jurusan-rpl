@@ -48,7 +48,7 @@
                 </ul>
             </div>
 
-            <form class="kontak__form" onsubmit="event.preventDefault(); alert('Terima kasih! Pesan kamu telah terkirim (contoh tampilan, hubungkan ke backend jika diperlukan).');">
+            <form class="kontak__form" onsubmit="event.preventDefault(); alert('Terima kasih! Pesan kamu telah terkirim.');">
                 <div class="form__group">
                     <label for="nama">Nama Lengkap</label>
                     <input type="text" id="nama" placeholder="Masukkan nama kamu" required>

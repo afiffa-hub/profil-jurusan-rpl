@@ -12,7 +12,7 @@ class HomeController extends Controller
         $stats = [
             ['angka' => '200+', 'label' => 'Siswa Aktif'],
             ['angka' => '90%', 'label' => 'Alumni Terserap Kerja'],
-            ['angka' => '4', 'label' => 'Tenaga Pengajar'],
+            ['angka' => '5', 'label' => 'Tenaga Pengajar'],
             ['angka' => '15', 'label' => 'Tahun Berdiri'],
         ];
 
@@ -138,7 +138,7 @@ class HomeController extends Controller
             ['nama' => 'Taufik Dzikri Pangestu, S.Kom.', 'jabatan' => 'Guru Pemrograman Web', 'foto' => 'guru2.jpg'],
             ['nama' => 'Retno Novia Andriani, S.Kom.', 'jabatan' => 'Guru Basis Data', 'foto' => 'guru3.jpg'],
             ['nama' => 'Yani Yulianti, S.Kom.', 'jabatan' => 'Guru Pemrograman', 'foto' => 'guru4.jpg'],
-            ['nama' => 'Rizal Suyaman, S.Kom.', 'jabatan' => 'Guru Jaringan', 'foto' => 'guru4.jpg'],
+            ['nama' => 'Rizal Suyaman, S.Kom.', 'jabatan' => 'Guru Jaringan', 'foto' => 'guru5.jpg'],
         ];
 
         // ==== KONTAK ====
